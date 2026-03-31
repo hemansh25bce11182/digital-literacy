@@ -6,6 +6,7 @@ Registration Number: 25BCE11182
 Branch: CSE
 Year: 1st Year(2025-batch)
 Project Overview
+
 This repository contains my Digital Literacy Portfolio created as part of the CSE0001 course. The project focuses on developing essential digital skills such as creating visual content, building a professional online presence, understanding online platforms, practicing email etiquette, and learning about cyber safety.
 
 All five tasks are organized into separate folders, along with a detailed project report documenting my work and learnings.
@@ -18,16 +19,20 @@ task-3-platforms
 task-4-email-etiquette
 task-5-cybercrime
 Important Links
-Google Form Quiz (Task 3): https://forms.gle/yAiL6GVj1mE8iy7v8
-LinkedIn url : www.linkedin.com/in/manu-30-singhx
+
+Google Form Quiz (Task 3):https://forms.gle/oNfQPcz3BH4phMcf6
+
+LinkedIn url : www.linkedin.com/in/hemansh-mishra-47b4383bb
+
 Task Summaries
+
 Task 1 – Digital Literacy Infographic
 Created an infographic using Canva to explain digital literacy concepts such as safe internet practices, useful tools, and professional online presence in a visually appealing format.
 
 Task 2 – Student Digital Portfolio
 Developed profiles on platforms like GitHub, LinkedIn, and Stack Overflow to build a professional digital presence and showcase learning goals.
 
-LinkedIn url : www.linkedin.com/in/manu-30-singhx
+
 Task 3 – Coding & Collaboration Platforms
 Completed a beginner coding challenge and created a Google Form quiz to spread awareness about digital literacy. Also explored how these tools help in learning and collaboration.
 
